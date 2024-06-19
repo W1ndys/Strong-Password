@@ -53,7 +53,7 @@ def generate_multiple_passwords():
 
         # 询问用户是否包含每种字符
 
-        # 经过 LilRan (https://blog.xinshi.fun) 大佬的指点，使用 lambda 表达式简化代码
+        # 经过 LilRan （https://github.com/Lil-Ran）(https://blog.xinshi.fun) 大佬的指点，使用 lambda 表达式简化代码
 
         check_include_rule = lambda x: input(x).strip().lower() in ["y", ""]
         include_digits = check_include_rule("是否包含数字 (y/n) [默认为 y]: ")
