@@ -56,3 +56,9 @@
 ## 许可证
 
 该项目采用 MIT 许可证。详细信息请参阅 [LICENSE](LICENSE) 文件。
+
+## 鸣谢
+
+感谢 [LilRan](https://github.com/Lil-Ran) 师傅给出的优化方案
+
+感谢 [ChatGPT](https://chatgpt.com/) 前期的帮助
